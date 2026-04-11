@@ -1,5 +1,5 @@
 # GIGATON-ENGINE
-Vanilla Biscuit's visual coding game engine, this is a proprietary engine, redistribution is prohibited and 3rd party branches are not allowed. Engine modification is allowed but does not invalidate royalty obligations defined by terms of service. read LICENSE.md, by using the engine you agree to the terms and conditions. { the royalty is 1% after 10'000 USD individual product revenue, it is measured on a per product basis not gross profit }
+Vanilla Biscuit's visual coding game engine, this is a proprietary engine, redistribution is prohibited and 3rd party branches are not allowed. Engine modification is allowed but does not invalidate royalty obligations defined by terms of service. read LICENSE.md, by using the engine you agree to the terms and conditions. { the royalty is 1% after 10'000 USD individual product revenue, it is measured on a per product basis}
 
 This engine is intended to make game development more accessible and affordable for everyone, coded in RUST using Vulkan Graphics API, this engine uses a node based system where users can connect pins like many other visual coding systems, however we plan to make it a very flexible and modular system that lets users easily implement and share code amongst each other natively for quicker game development cycles. 
 
