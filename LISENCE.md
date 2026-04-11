@@ -1,44 +1,190 @@
-Copyright (c) [2026] [Simon Price AKA Vanilla Biscuit]. All Rights Reserved.
+Copyright (c) 2026 Simon Price (VanillaBiscuit). All Rights Reserved.
 
-The source code and all assets in this repository are proprietary.
-No part of this project may be copied, modified, distributed, or used without explicit written permission from the copyright holder outside of the terms of use defined below.
+------------------------------------------------------------------------------------------------------------------
+Definitions
+------------------------------------------------------------------------------------------------------------------
 
+For the purpose of this License, the following terms have the meanings defined below:
 
-1. MODIFICATION
+- **"Gigaton Engine"** or **"the Engine"** — refers to the proprietary game engine software, including its source code, compiled binaries, editor, runtime, tools, documentation, architecture, Brix System, and all related materials developed by Simon Price.
 
-1.1] SOURCE CODE MODIFICATION
+- **"Brix"** or **"Brix System"** — refers to the visual scripting system within the Gigaton Engine that uses visual code blocks and .brix files to create logic maps.
 
-- The engine source code may be modified for the creation of a product, but be aware in doing so the engine will no longer be provided technical support to the modifier, and the code will also remain the rightful propriatary property of Simon Price and does not invalidate royalty responsibilities defined in TERMS OF SERVICE. The user also understands that the modification of code does not override the limitations of redistribution, the code may not be redistributed outside of reasonable scope such as the team behind a product, in the event the modified code is distrubted outside of a contained environment you acknowledge the risk of legal action. This holds true for any such case where a copy of the modified source code can be aquired online, locally or physically, the modifier becomes libale for the modified engine and it's distribution.
+- **".brix files"** or **"Brix Maps"** — visual logic files created by users using the Brix System.
 
-1.2] NON INVASIVE BRIX MODIFICATIONS
+- **"Custom Brix Code Blocks"** — user-created extensions or new blocks added to the Brix System following the official modding architecture.
 
-- The addition of code to the 'brix' system that extends functionality is permitted, provided it is non invasive to the source code, does not modify the source code, follows the pre-established intended architecture of the engine and follows best practise modding procedure for the brix system provide in engine materials. These modifications should in no way alter the source code or require the engine to recieve any source code alterations to function.
+- **"Official Gigaton Engine Marketplace"** — the official platform operated or endorsed by Simon Price for the sale and distribution of Brix content.
 
-- The engine is designed to 'strip' itself of redundant code in the process of creating a packaged product, alterations to the code that impedes this process will not be supported and fall under usage defined in 1.1] SOURCE CODE MODIFICATION. A brix modification is strictly defined as code that implements a single or group of code blocks to the engine used in the visual scripting system of the GIGATON ENGINE, with the intention of adding functionality to the engine according to the defined architecture usage in publicly available resources.
+- **"Generalized / Large-scale Commercial Distribution"** — selling, licensing, or distributing Brix content to the general public as a product, library, pack, or marketplace-style offering.
 
-1.3] BRIX VISUAL CODE MAPS
+------------------------------------------------------------------------------------------------------------------
+1. Permitted Use
+------------------------------------------------------------------------------------------------------------------
 
-- The gigaton engine allows users to make pseudo code using the brix visual system, this code acts as secondary layer over the rust layer of the engine, to allow users to focus on universal code logic over language technicalities that slow down code creation. These are stored as .brix files in the user project files. This is the most effective way to modify the logic of a user engine project, the brix system uses visually simplified code blocks and represented connections that allows a user to create visual maps of code logic.  
+- You may download, install, and use the Gigaton Engine to create games and applications.
 
-1.4] MALICIOUS MODIFICATION
+- You may modify the engine's source code for use in your own projects.
 
-- Any modification / addition to the engine source code or external code that enables that results in a criminal acts is forbidden, including but not limited to spyware, malware, scamware and ransomware. Any and all misaligned user's conduct that will conflict with user's juristidiction's legal framework that will result in a criminal act is the sole liability of the user / modifier. Official parties involved in the creation of the original engine take no liability for the third parties who modify the engine to commit or enable criminal acts.
+- You may **create, sell, distribute, and commercially release** games and products made with the Gigaton Engine (including versions that contain your engine modifications), **provided** you fully comply with the Royalty Clause in Section 5.
 
-2. SALES & DISTRIBUTION
+- You may create, modify, and distribute Brix Maps and Custom Brix Code Blocks as outlined in Section 2.
 
-2.1.1] ENGINE DISTRIBUTION AGREEMENT
+------------------------------------------------------------------------------------------------------------------
+2. Brix System (Visual Scripting) – Lenient Terms
+------------------------------------------------------------------------------------------------------------------
 
-- The Gigaton engine may NOT in any capacity be redistributed or distibuted once obtained through the official channel in any capacity, the only exception being a product team environment within a reasonable scope, This especially holds true for modified versions of the Gigaton engine. No official parties take any liability for redistributed copies of the engine as there is no way to guarentee or promise the integrity of the engine once it has left official channels. Redistribution of the engine becomes a liability to the redistributor and they ackowledge this by using or distributing the engine. This could result in legal liabilty to the redistributor in the event that a compromised copy of the engine is distributed. 
+- You may freely create, modify, share, and distribute **.brix files** (Brix Maps) and **Custom Brix Code Blocks**.
 
-2.1.2] ENGINE COMMERCIAL RIGHTS RESERVED
+- **Personal Sales**: You may sell your Brix Maps and Custom Brix Code Blocks directly to individual buyers or development teams for their personal use.
 
-- Any and all 3RD party commercial activity of any version of the Gigaton engine, modified or unmodified, is striclty forbidden and may not in any capacity be sold, lisended, leased, rented or profitted from, any and all commercial rights to the Gigaton Engine is explicitly reserved by the copyright holder. 
+- **Commission Work**: You may create and sell custom Brix Maps or Code Blocks on a commission basis (e.g. building a specific system for another developer or small team upon request).
 
-2.2.1] BRIX VISUAL CODE MAPS
+- **Generalized / large-scale commercial sales** of Brix extensions, packs, or libraries are **only permitted through the Official Gigaton Engine Marketplace**. Selling Brix content as a general-purpose product outside the official marketplace or endorsed platform with specific explicit written authorization by Simon Price is prohibited.
 
-- The gigaton engine allows users to make pseudo code using the brix visual system, this code acts as secondary layer over the rust layer of the engine, to allow users to focus on universal code logic over language technicalities that slow down code creation and game development. These are stored as .brix files in the user project files. This is the most effective way to modify the logic of a user engine project, the brix system uses visually simplified code blocks and represented connections that allows a user to create visual maps of code logic. These can be freely distributed by users, but the generalized sale of brix visual code maps is restricted to the official Gigaton Engine platform, a personalized sale between 2 parties such as commision work is permitted.
+------------------------------------------------------------------------------------------------------------------
+3. Restrictions (Engine Core)
+------------------------------------------------------------------------------------------------------------------
 
-2.2.2] BRIX CUSTOM CODE BLOCKS 
-- The sale of custom brix code blocks is permitted, provided the sale is 
+- You may **NOT** redistribute or resell the Gigaton Engine itself (in original or modified form) as a standalone product or development tool.
 
-For licensing inquiries, commercial use, or collaboration opportunities, please contact: [gigatonengine@gmail,com]
+- You may **NOT** publicly share the full engine source code or compiled binaries outside of your own development team.
+
+- You may **NOT** sell, lease, rent, or commercially exploit the engine as a game development tool.
+
+- You may **NOT** remove or obscure the engine's copyright notices.
+
+------------------------------------------------------------------------------------------------------------------
+4. Modifications & Support
+------------------------------------------------------------------------------------------------------------------
+- Any modifications made to the core engine are at your own risk.
+
+- Modified versions of the core engine will **not** receive official technical support.
+
+- The engine is designed to strip unused code during packaging. Modifications that break this process may not be supported.
+
+------------------------------------------------------------------------------------------------------------------
+5. Royalty Clause
+------------------------------------------------------------------------------------------------------------------
+
+- Royalties are calculated on a per-product basis. Only the Gross Revenue earned by each individual game or product counts toward the threshold and royalty obligation.
+
+- The royalty obligation begins once a game or product has earned $10,000 USD or more in Gross Revenue.
+Once the 10,000 USD threshold is reached, you must pay 1% of all Gross Revenue generated by that product thereafter.
+
+- Gross Revenue means the total income received from the game or product (sales, in-app purchases, DLC, advertising, subscriptions, etc.) before any deductions for costs, expenses, taxes, refunds, or platform fees.
+
+- Important Clarification: Royalties are based on Gross Revenue, not profit. Profit is the amount remaining after deducting costs and expenses. You are still required to pay the royalty on Gross Revenue even if your project results in low profit or a net loss.
+
+- Royalties must be reported and paid quarterly (every 3 months). You agree to maintain accurate records of revenue and provide them to Simon Price upon reasonable request.
+
+------------------------------------------------------------------------------------------------------------------
+6. Prohibited Uses
+------------------------------------------------------------------------------------------------------------------
+
+- You may not use the Gigaton Engine (or any modifications) for illegal, malicious, or harmful purposes (including but not limited to malware, spyware, scamware, ransomware etc.).
+
+- You accept full liability for any third-party code, Brix blocks, or modifications you add to the core engine.
+
+- You accept by using the engine, you become liable for your actions entirely in accordance with this copyright agreement.
+
+------------------------------------------------------------------------------------------------------------------
+7. Ownership and Commercial Rights
+------------------------------------------------------------------------------------------------------------------
+
+- The Gigaton Engine and all its components remain the exclusive property of Simon Price.  
+No ownership rights are transferred to the user. Any commercial use or exploitation of the Gigaton Engine itself (as a tool, product, or service) requires a separate commercial license agreement.
+
+- For licensing inquiries, commercial licenses, collaboration, or questions about Brix distribution, please contact: gigatonengine@gmail.com
+
+------------------------------------------------------------------------------------------------------------------
+8. Right to Change Terms
+------------------------------------------------------------------------------------------------------------------
+
+- Simon Price reserves the right to update or modify these terms at any time. Continued use of the Gigaton Engine after changes have been made constitutes acceptance of the new terms. Significant changes will be announced via the official website, discord server or GitHub repository.
+
+- It is the responsibility of the user to stay up to date with the changes to this copyright agreement.
+
+- For licensing inquiries, commercial licenses, royalty arrangements, collaboration, or questions about Brix distribution, please contact: gigatonengine@gmail.com
+
+------------------------------------------------------------------------------------------------------------------
+9. Attribution Requirement
+------------------------------------------------------------------------------------------------------------------
+
+You must visibly credit the Gigaton Engine in any publicly released game or product.
+
+- The credit must be displayed in an unobscured manner for a reasonable duration (for example, on the initial loading/boot screen, main menu, or credits screen).
+
+- The recommended format is: **"Made with Gigaton Engine"** (or "Powered by Gigaton Engine").
+
+- You may alternatively use the Gigaton Logo provided in the software to attribute. 
+
+- You may use your own logo alongside the credit if desired.
+
+- Exceptions may be granted on a case-by-case basis for large commercial projects via specific explicit written authorization by Simon Price.
+
+------------------------------------------------------------------------------------------------------------------
+10. Limitation of Liability & Disclaimer of Warranty
+------------------------------------------------------------------------------------------------------------------
+
+The Gigaton Engine is provided "AS IS" and "AS AVAILABLE", without any warranties of any kind, either express or implied.
+
+Simon Price disclaims all warranties, including but not limited to:
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement
+- Accuracy or reliability of the software
+
+**Limitation of Liability**
+
+To the maximum extent permitted by law, Simon Price shall **not** be liable for any:
+- Direct, indirect, incidental, special, consequential, or punitive damages
+- Loss of profits, revenue, data, or goodwill
+- Business interruption
+- Computer failure or malfunction
+- Any other losses or damages arising from your use (or inability to use) the Gigaton Engine
+
+This limitation applies even if you have been advised of the possibility of such damages.
+
+**Your Responsibility**  
+You assume all risks and liabilities associated with your use of the Engine, including any games or products you create with it. You are solely responsible for testing, validating, and ensuring the safety and quality of your final products.
+
+------------------------------------------------------------------------------------------------------------------
+11. Artificial Intelligence (AI) Clause
+------------------------------------------------------------------------------------------------------------------
+
+The Gigaton Engine was developed with the assistance of Grok AI. AI was primarily used in a **boilerplate and supportive capacity** — generating standard code structures, repetitive patterns, documentation, and initial implementations.
+
+All AI-generated code has undergone **rigorous human review, cross-checking, debugging, optimization, and refinement** by the developer. The final architecture, design decisions, performance considerations, creative direction, and overall implementation are the result of direct human oversight and collaboration.
+
+It should be noted that no remote autonomous AI control over the code in the engine is implemented on hardware developing the engine source code and that it all code alterations remain human authorized 
+
+**Stance on AI Usage in User Projects:**
+
+- The use of AI tools to assist development (code generation, refactoring, debugging, etc.) is **permitted** as a productivity tool, provided it does not impact the developers ability to diagnose code logic.
+
+- Users are expected to apply the same standard of **human review, debugging, and creative oversight** to any AI-assisted works, vibe coding isn't a recommened pattern of development.
+
+- The project values meaningful **human creative input** and authorship. While AI assistance is welcome, fully automated, zero-human-input projects are not aligned with the spirit of the Gigaton Engine. 
+
+- The project does not believe AI produced art constitutes artistry and or skill of any kind, we believe AI art generators represent a decay in the field of creativity and needlessly harm the art community and environment as a whole. We strongly advise users to embrace their own brand of creativity or the creativity of those who have dedicated themselves to it.
+
+- This approach ensures transparency: AI is treated as a helpful tool, not a replacement for human effort and accountability. 
+
+- The project does not support the use AI substitution for the human creative process, we believe expression is akin to freedom of speech, to deminish the effort that goes into artistic expression is to deny creativity and embrace mediocrity.
+
+------------------------------------------------------------------------------------------------------------------
+12. Philosophical Position – Free Speech, Neutrality & Authorship
+------------------------------------------------------------------------------------------------------------------
+
+The Gigaton Engine is a creative tool first and foremost. It takes no part in political agendas, ideologies, or cultural movements of any kind. The project remains strictly neutral and does not align itself with any political messaging, activism, or social causes.
+
+- Games and products created with the engine will be judged and showcased solely on their technical merit, creativity, gameplay, and execution — not on any political, social, or ideological content.
+
+- The engine does not support DEI (Diversity, Equity, Inclusion) initiatives or any form of forced representation. We believe compelling and authentic works are best created by talented, determined authors exercising full creative freedom.
+
+- The project strongly supports unrestricted creative expression. We do not recognise or enforce speech censorship in any form. The ability to create a compelling experience may require the risk of being offensive. The engine will not police, moderate, or condemn content based on public perceptions of "hate speech" or political correctness.
+
+- Any and all messaging, themes, characters, or narratives created using the Gigaton Engine are the sole responsibility and liability of the individual author or team. Simon Price and all official parties involved with the Gigaton Engine bear no liability whatsoever for any content produced by users.
+
+This engine exists to empower creators, not to serve as a platform for political or ideological enforcement.
