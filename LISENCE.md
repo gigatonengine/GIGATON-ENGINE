@@ -89,17 +89,11 @@ Once the 10,000 USD threshold is reached, you must pay 1% of all Gross Revenue g
 - You accept by using the engine, you become liable for your actions entirely in accordance with this copyright agreement.
 
 ------------------------------------------------------------------------------------------------------------------
-7. Ownership and Commercial Rights
+7. Ownership, Commercial Rights and Right to Change Terms
 ------------------------------------------------------------------------------------------------------------------
 
 - The Gigaton Engine and all its components remain the exclusive property of Simon Price.  
 No ownership rights are transferred to the user. Any commercial use or exploitation of the Gigaton Engine itself (as a tool, product, or service) requires a separate commercial license agreement.
-
-- For licensing inquiries, commercial licenses, collaboration, or questions about Brix distribution, please contact: gigatonengine@gmail.com
-
-------------------------------------------------------------------------------------------------------------------
-8. Right to Change Terms
-------------------------------------------------------------------------------------------------------------------
 
 - Simon Price reserves the right to update or modify these terms at any time. Continued use of the Gigaton Engine after changes have been made constitutes acceptance of the new terms. Significant changes will be announced via the official website, discord server or GitHub repository.
 
